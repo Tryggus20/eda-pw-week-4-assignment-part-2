@@ -7,3 +7,8 @@ h3 {
     color: crimson;
     background-color: cadetblue;
 }
+.center {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
