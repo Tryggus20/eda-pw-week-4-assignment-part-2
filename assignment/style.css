@@ -1,9 +1,11 @@
 header {
     background-color: tan; }
 h2 {
+    text-align: center;
     background-color: black;
     color: white;}
-h3 { 
+h3 {
+    text-align: center;
     color: crimson;
     background-color: cadetblue;
 }
